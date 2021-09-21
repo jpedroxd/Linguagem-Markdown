@@ -1,5 +1,7 @@
-# Linguagem Markdown
- Repositório criado para mostrar comandos em Markdown baseado no curso de Git e Github do Curso em Vídeo. <br><br>
+# Linguagem *Markdown*
+ Repositório criado para mostrar comandos em *Markdown* baseado no curso de Git e Github do **Curso em Vídeo**. <br>
+ 
+ [Clique aqui para acessar o Guia em PDF](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf). <br><br>
 
 
 ## Deixar em Negrito
