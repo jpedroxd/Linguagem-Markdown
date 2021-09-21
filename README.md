@@ -3,13 +3,13 @@
 
 
 ## Deixar em Negrito
-   Adicione ** ** ou __ __ nas palavras. Ex: **Teste** (Sem espaço, os asteriscos ou underlines devem ficar juntos da palavra).
+   Adicione ** ** ou __ __ nas palavras. Exemplo: **Teste** (Sem espaço, os asteriscos ou underlines devem ficar juntos da palavra).
 
 ## Deixar em Itálico
-   Adicione * * ou _ _ nas palavras. Ex: *Teste* (Sem espaço, o asterisco ou underline deve ficar junto da palavra).
+   Adicione * * ou _ _ nas palavras. Exemplo: *Teste* (Sem espaço, o asterisco ou underline deve ficar junto da palavra).
 
 ## Deixar como Riscado
-   Adicione ~ ~ nas palavras. Ex: ~Teste~ (Sem espaço, o sinal deve ficar junto da palavra, no README parece n funcionar).
+   Adicione ~ ~ nas palavras. Exemplo: ~Teste~ (Sem espaço, o sinal deve ficar junto da palavra.
 
 ## Deixar como Título
    Adicione "#" antes da palavra de acordo com o nível. "#" Para Título de nível 1, "##" para Título de nível 2 e "###" para Título de nível 3.
@@ -20,7 +20,7 @@
    ---
    
 ## Misturar Configurações
-   É possível colocar algo com mais de uma configuração. Ex: __*Teste*__ (Negrito e Itálico).
+   É possível colocar algo com mais de uma configuração. Exemplo: __*Teste*__ (Negrito e Itálico).
    
 ## Lista Numerada (Ordenada)
    Para fazer uma lista numerada, coloque algum número seguindo de um ponto, como por exemplo " 1. " (recomendado seguir a ordem da lista).
@@ -93,4 +93,4 @@ Para colocar emojis, se utiliza dois pontos (:) seguido do nome do emoji. <br>
 [Clique aqui para abrir o reposítório de emojis](https://github.com/ikatyang/emoji-cheat-sheet), Créditos a [Ikatyang](https://github.com/ikatyang).
 
 ## Marcar Pessoas
-Para marcar outros usuários, se utiliza "@" antes do seu nome de usuário. **Exemplo: @jpedroxd**
+Para marcar outros usuários, se utiliza "@" antes do seu nome de usuário. **Exemplo:** @jpedroxd
